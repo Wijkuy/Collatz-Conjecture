@@ -1,0 +1,7 @@
+App_Data
+bin
+obj
+Test
+Results
+*.suo*
+.user
