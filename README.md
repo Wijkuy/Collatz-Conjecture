@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Collatz_conjecture
 
 This program will create a directory in your ..\(User)\My Documents\Temp\conjecture.csv
 
-From there you can 
+From there you can  
 
 Here is graphed results
 The Y axis represents the number of steps required to get to 1
